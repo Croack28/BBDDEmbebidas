@@ -1,4 +1,4 @@
-package reto2Unidad2BDEmbebidas.BancoTransacciones;
+package reto2Unidad2BDEmbebidas.BancoTransaccionesSQLite;
 
 public class Banco {
     public final Cuenta[] cuentas;

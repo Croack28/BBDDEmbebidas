@@ -1,4 +1,5 @@
-package reto2Unidad2BDEmbebidas.BancoTransacciones;
+package reto2Unidad2BDEmbebidas.BancoTransaccionesSQLite;
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;

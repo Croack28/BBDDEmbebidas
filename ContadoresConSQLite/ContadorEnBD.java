@@ -1,4 +1,4 @@
-package reto2Unidad2BDEmbebidas.Contadores;
+package reto2Unidad2BDEmbebidas.ContadoresConSQLite;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
